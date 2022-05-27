@@ -2,19 +2,31 @@
 ![Hola](https://user-images.githubusercontent.com/98271875/170594978-844b3aa9-3085-449e-a9f4-ba24b9fbf416.gif)
 
 Un poco sobre mí:
+
 const patriciorouan = {
+
         skills: ["HTML", "CSS", "JavaScript", "React", "Redux", "NodeJs", "ExpressJs", "Sequelize", "PostgreSQL"],
+        
         projects: "In progress",
+        
         languages: ["Inglés", "Italiano"],
+        
         challenges: function(desafio) {
+        
                       if(desafio == "ok"){
+                      
                         console.log("Aumenta mi enfoque y mi entusiasmo");
+                        
                       }else{
+                      
                         console.log("busco desafíos");
                       }
+                      
                      }
+                     
 
  }
+ 
 
 Soy una persona a la que le gustan los desafios y el de resolver problemas programando es algo que me resulta súper atrapante.
 
