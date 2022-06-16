@@ -1,7 +1,7 @@
 
 ![Hola](https://user-images.githubusercontent.com/98271875/170594978-844b3aa9-3085-449e-a9f4-ba24b9fbf416.gif)
 
-##Un poco sobre mí:
+***Un poco sobre  mí:
 
 const patriciorouan = {
 
@@ -27,13 +27,11 @@ const patriciorouan = {
 
  }
 
-##Soy una persona a la que le gustan los desafios y el de resolver problemas programando es algo que me resulta súper atrapante.
+***Soy una persona a la que le gustan los desafios y el de resolver problemas programando es algo que me resulta súper atrapante.
 
-##Contacto:
+***Contacto:
 - [Linkedin](https://www.linkedin.com/in/patricio-rouan-460258227/)
 - [Whatsapp](https://api.whatsapp.com/send?phone=541133872411)
-
-
 <!--
 **Patriciorouan/patriciorouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
