@@ -35,6 +35,7 @@ const patriciorouan = {
 - [WhatsApp](https://api.whatsapp.com/send?phone=541133872411)
 - [Portfolio](https://patriciorouan.github.io/Portfolio/#projects-section)
 
+
 <!--
 **Patriciorouan/patriciorouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
