@@ -31,11 +31,9 @@ const patriciorouan = {
 
 
 ## Contacto:
-- ![3456764](https://user-images.githubusercontent.com/98271875/174207916-b79f8a55-03b1-404a-897b-761baee8637d.png)(https://www.linkedin.com/in/patricio-rouan-460258227/)
-- ! [3456764] ( https://imagenes-de-usuario.githubusercontent.com/98271875/174207916-b79f8a55-03b1-404a-897b-761baee8637d.png )
-(https://api.whatsapp.com/send?phone=541133872411)
-- ! [3456764] ( https://imagenes-de-usuario.githubusercontent.com/98271875/174207916-b79f8a55-03b1-404a-897b-761baee8637d.png )
-(https://patriciorouan.github.io/Portfolio/#projects-section)
+- [LinkedIn](https://www.linkedin.com/in/patricio-rouan-460258227/)
+- [WhatsApp](https://api.whatsapp.com/send?phone=541133872411)
+- [Portfolio](https://patriciorouan.github.io/Portfolio/#projects-section)
 
 <!--
 **Patriciorouan/patriciorouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
