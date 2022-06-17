@@ -29,7 +29,6 @@ const patriciorouan = {
  
 ## Soy una persona a la que le gustan los desafios y el de resolver problemas programando es algo que me resulta súper atrapante.
 
-
 ## Contacto:
 - [Linkedin](https://www.linkedin.com/in/patricio-rouan-460258227/)
 - [Whatsapp](https://api.whatsapp.com/send?phone=541133872411)
