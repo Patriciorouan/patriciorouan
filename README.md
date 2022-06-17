@@ -26,8 +26,8 @@ const patriciorouan = {
                      
 
  }
-
 ## 🚀 Soy una persona a la que le gustan los desafíos y el desafío de resolver problemas programando es algo que me resulta súper atrapante. 
+
 
 ##  📲 Contacto: 
 - [LinkedIn](https://www.linkedin.com/in/patricio-rouan-460258227/)
