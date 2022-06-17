@@ -30,9 +30,10 @@ const patriciorouan = {
 ## Soy una persona a la que le gustan los desafios y el desafío de resolver problemas programando es algo que me resulta súper atrapante.
 
 ## Contacto:
-- [Linkedin](https://www.linkedin.com/in/patricio-rouan-460258227/)
-- [Whatsapp](https://api.whatsapp.com/send?phone=541133872411)
-
+- [Linkedin](https://www.linkedin.com/in/patricio-rouan-460258227/)## Contacto:
+- [https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_likedin-128.png](https://www.linkedin.com/in/patricio-rouan-460258227/)
+- [https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_whatsapp-128.png](https://api.whatsapp.com/send?phone=541133872411)
+- [https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_github-128.png](https://patriciorouan.github.io/Portfolio/#projects-section)
 <!--
 **Patriciorouan/patriciorouan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
