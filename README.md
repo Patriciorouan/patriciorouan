@@ -33,7 +33,7 @@ const patriciorouan = {
 ## Contacto:
 - [LinkedIn](https://www.linkedin.com/in/patricio-rouan-460258227/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=541133872411)
-- [Portfolio](https://patriciorouan.github.io/Portfolio/#projects-section)
+- [Portfolio](https://patriciorouan.github.io/Portfolio/)
 
 
 <!--
