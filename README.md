@@ -1,7 +1,7 @@
 
 ![Hola](https://user-images.githubusercontent.com/98271875/170594978-844b3aa9-3085-449e-a9f4-ba24b9fbf416.gif)
 
-👇 ##  Un poco sobre mí:
+##  👇 Un poco sobre mí:
 const patriciorouan = {
 
         skills: ["HTML", "CSS", "JavaScript", "React", "Redux", "NodeJs", "ExpressJs", "Sequelize", "PostgreSQL"],
@@ -26,9 +26,9 @@ const patriciorouan = {
 
  }
 
-🚀 ## Soy una persona a la que le gustan los desafíos y el desafío de resolver problemas programando es algo que me resulta súper atrapante.
+## 🚀 Soy una persona a la que le gustan los desafíos y el desafío de resolver problemas programando es algo que me resulta súper atrapante.
 
-📲 ## Contacto:
+##  📲 Contacto:
 - [LinkedIn](https://www.linkedin.com/in/patricio-rouan-460258227/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=541133872411)
 - [Portfolio](https://patriciorouan.github.io/Portfolio/)
