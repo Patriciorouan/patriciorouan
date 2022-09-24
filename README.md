@@ -1,6 +1,6 @@
 ##  👋 Hola! Soy Patricio Rouan
 
-![portadaGotHubPatricioRouan](https://user-images.githubusercontent.com/98271875/192074246-9f6b166f-930d-4fcb-b6c5-340f25139aac.gif)
+![portada_GitHub_Patricio_Rouan](https://user-images.githubusercontent.com/98271875/192088576-b8776536-1316-491e-bfa6-4e5a490522a2.gif)
 
 ##  👇 Un poco sobre mí: 
 
