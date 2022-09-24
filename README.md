@@ -1,8 +1,9 @@
-##  👋 Hola! Soy Patricio Rouan!
+##  👋 Hola! Soy Patricio Roua
 
-![Hola](https://user-images.githubusercontent.com/98271875/170594978-844b3aa9-3085-449e-a9f4-ba24b9fbf416.gif)
+![portadaGotHubPatricioRouan](https://user-images.githubusercontent.com/98271875/192074246-9f6b166f-930d-4fcb-b6c5-340f25139aac.gif)
 
 ##  👇 Un poco sobre mí: 
+
 const patriciorouan = {
 
         skills: ["HTML", "CSS", "JavaScript", "React", "Redux", "NodeJs", "ExpressJs", "Sequelize", "PostgreSQL"],
@@ -30,7 +31,7 @@ const patriciorouan = {
 
 
 ##  📲 Contacto: 
-- [LinkedIn](https://www.linkedin.com/in/patricio-rouan-460258227/)
+- [LinkedIn](https://www.linkedin.com/in/patricio-rouan/)
 - [WhatsApp](https://api.whatsapp.com/send?phone=541133872411)
 - [Portfolio](https://patriciorouan.github.io/Portfolio/)
 
