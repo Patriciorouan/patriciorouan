@@ -1,10 +1,10 @@
-##  👋 Hola! Soy Patricio Roua
+##  👋 Hola! Soy Patricio Rouan
 
 ![portadaGotHubPatricioRouan](https://user-images.githubusercontent.com/98271875/192074246-9f6b166f-930d-4fcb-b6c5-340f25139aac.gif)
 
 ##  👇 Un poco sobre mí: 
 
-const patriciorouan = {
+const patricioRouan = {
 
         skills: ["HTML", "CSS", "JavaScript", "React", "Redux", "NodeJs", "ExpressJs", "Sequelize", "PostgreSQL"],
         
